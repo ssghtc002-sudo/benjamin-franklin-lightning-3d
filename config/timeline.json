@@ -1,0 +1,170 @@
+{
+  "title": "Benjamin Franklin — Catching Lightning With a Kite, Leyden Jar & Copper Lightning Rod (1752)",
+  "scientistNumber": 10,
+  "duration": 30.0,
+  "fps": 24,
+  "totalFrames": 720,
+  "resolution": [1080, 1920],
+  "audio": {
+    "masterPath": "audio/output/master_audio.wav",
+    "manifestPath": "audio/output/voice_manifest.json",
+    "srtPath": "subtitles/subtitles.srt",
+    "assPath": "subtitles/subtitles.ass"
+  },
+  "speakers": {
+    "narrator": {
+      "voice": "en-US-BrianNeural",
+      "lang": "en-us",
+      "speed": 1.0,
+      "pan": 0.0
+    },
+    "franklin": {
+      "voice": "en-US-AndrewNeural",
+      "lang": "en-us",
+      "speed": 1.0,
+      "pan": -0.18
+    },
+    "william": {
+      "voice": "en-US-SteffanNeural",
+      "lang": "en-us",
+      "speed": 1.0,
+      "pan": 0.20
+    }
+  },
+  "anchors": {
+    "FLOOR_Z": 0.0,
+    "KITE_KEY_POS": [-0.52, 0.12, 0.88],
+    "KEY_STAND_POS": [0.55, 0.08, 0.90],
+    "LEYDEN_POS": [-2.85, 0.06, 0.0],
+    "STEEPLE_POS": [2.88, 0.08, 0.90],
+    "SPIRE_POS": [0.64, 0.14, 0.0]
+  },
+  "beats": [
+    {
+      "id": "B1",
+      "name": "Viral Hook: 1752 Stormy Kite & Brass Key Struck by Lightning",
+      "start": 0.0,
+      "end": 4.5
+    },
+    {
+      "id": "B2",
+      "name": "High-Voltage Debate: Knuckle Spark on Brass Key -> +Q/-Q & V = kQ/r",
+      "start": 4.5,
+      "end": 9.8
+    },
+    {
+      "id": "B3",
+      "name": "Bottling Lightning: Crystal Glass Leyden Jar & Positive/Negative Easel",
+      "start": 9.8,
+      "end": 15.5
+    },
+    {
+      "id": "B4",
+      "name": "Viral Proof & Recoil: Colonial Steeple Strike vs. Pointed Copper Lightning Rod",
+      "start": 15.5,
+      "end": 20.5
+    },
+    {
+      "id": "B5",
+      "name": "Electric Age Climax: Modern Skyscraper Spire, Illuminated Bulb & Power Grid",
+      "start": 20.5,
+      "end": 25.5
+    },
+    {
+      "id": "B6",
+      "name": "Modern Legacy Finale: Benjamin & William Under Monument Sky Title",
+      "start": 25.5,
+      "end": 30.0
+    }
+  ],
+  "dialogue": [
+    {
+      "id": "L1",
+      "beatId": "B1",
+      "speaker": "narrator",
+      "start": 0.12,
+      "end": 4.38,
+      "text": "In 1752, one wild man flew a kite into a storm—to catch lightning on a key!"
+    },
+    {
+      "id": "L2",
+      "beatId": "B2",
+      "speaker": "william",
+      "start": 4.50,
+      "end": 6.85,
+      "text": "Father, stop—that lightning bolt could kill us!"
+    },
+    {
+      "id": "L3",
+      "beatId": "B2",
+      "speaker": "franklin",
+      "start": 6.95,
+      "end": 9.70,
+      "text": "Touch the brass key, William—lightning is pure electricity!"
+    },
+    {
+      "id": "L4",
+      "beatId": "B3",
+      "speaker": "narrator",
+      "start": 9.82,
+      "end": 15.35,
+      "text": "He bottled real storm lightning in a glass Leyden jar—naming positive and negative charge!"
+    },
+    {
+      "id": "L5",
+      "beatId": "B4",
+      "speaker": "narrator",
+      "start": 15.50,
+      "end": 18.00,
+      "text": "Then Franklin built the copper lightning rod—"
+    },
+    {
+      "id": "L6",
+      "beatId": "B4",
+      "speaker": "william",
+      "start": 17.72,
+      "end": 20.45,
+      "text": "Whoa! It steered a thunderbolt straight into the earth!"
+    },
+    {
+      "id": "L7",
+      "beatId": "B5",
+      "speaker": "narrator",
+      "start": 20.55,
+      "end": 25.35,
+      "text": "One fearless storm test saved millions of homes, and sparked the entire electric age!"
+    },
+    {
+      "id": "L8",
+      "beatId": "B6",
+      "speaker": "narrator",
+      "start": 25.50,
+      "end": 29.80,
+      "text": "Skyscrapers, batteries, your phone right now—all trace back to Benjamin Franklin!"
+    }
+  ],
+  "sfx": [
+    { "t": 0.15, "type": "storm_wind_swell", "pan": -0.25 },
+    { "t": 1.35, "type": "distant_thunder_rumble", "pan": 0.18 },
+    { "t": 2.08, "type": "lightning_kite_strike", "pan": 0.28 },
+    { "t": 2.42, "type": "brass_key_ting", "pan": 0.24 },
+    { "t": 4.45, "type": "whoosh_transition", "pan": 0.0 },
+    { "t": 5.05, "type": "formula_shimmer", "pan": 0.0 },
+    { "t": 7.02, "type": "knuckle_spark_snap", "pan": -0.05 },
+    { "t": 7.30, "type": "formula_shimmer", "pan": 0.05 },
+    { "t": 9.75, "type": "whoosh_transition", "pan": -0.15 },
+    { "t": 10.60, "type": "leyden_jar_charge", "pan": -0.32 },
+    { "t": 12.10, "type": "electric_arc_crackle", "pan": -0.20 },
+    { "t": 13.70, "type": "electric_arc_crackle", "pan": -0.10 },
+    { "t": 15.45, "type": "whoosh_transition", "pan": 0.15 },
+    { "t": 16.50, "type": "storm_wind_swell", "pan": 0.25 },
+    { "t": 17.42, "type": "rod_lightning_intercept", "pan": 0.28 },
+    { "t": 17.75, "type": "grounding_drain_hiss", "pan": 0.22 },
+    { "t": 20.48, "type": "whoosh_transition", "pan": 0.0 },
+    { "t": 21.15, "type": "power_grid_ignition", "pan": 0.22 },
+    { "t": 23.40, "type": "electric_arc_crackle", "pan": 0.25 },
+    { "t": 25.45, "type": "whoosh_transition", "pan": 0.0 },
+    { "t": 26.20, "type": "power_grid_ignition", "pan": 0.0 },
+    { "t": 27.90, "type": "finale_triumph_chime", "pan": 0.0 }
+  ]
+}

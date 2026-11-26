@@ -1,0 +1,103 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,DejaVu Sans,66,&H00FFFFFF,&H00FFE040,&H00120803,&H96000000,-1,0,0,0,100,100,0,0,1,8,3.0,2,80,80,275,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.12,0:00:00.25,Default,,0,0,0,,{\c&H00FFE040&}In{\c&H00FFFFFF&} 1752,\None wild man
+Dialogue: 0,0:00:00.25,0:00:00.57,Default,,0,0,0,,In {\c&H00FFE040&}1752,{\c&H00FFFFFF&}\None wild man
+Dialogue: 0,0:00:00.57,0:00:00.77,Default,,0,0,0,,In 1752,\N{\c&H00FFE040&}one{\c&H00FFFFFF&} wild man
+Dialogue: 0,0:00:00.77,0:00:01.02,Default,,0,0,0,,In 1752,\None {\c&H00FFE040&}wild{\c&H00FFFFFF&} man
+Dialogue: 0,0:00:01.02,0:00:01.21,Default,,0,0,0,,In 1752,\None wild {\c&H00FFE040&}man{\c&H00FFFFFF&}
+Dialogue: 0,0:00:01.21,0:00:01.47,Default,,0,0,0,,{\c&H00FFE040&}flew{\c&H00FFFFFF&} a kite\Ninto a storm—
+Dialogue: 0,0:00:01.47,0:00:01.58,Default,,0,0,0,,flew {\c&H00FFE040&}a{\c&H00FFFFFF&} kite\Ninto a storm—
+Dialogue: 0,0:00:01.58,0:00:01.84,Default,,0,0,0,,flew a {\c&H00FFE040&}kite{\c&H00FFFFFF&}\Ninto a storm—
+Dialogue: 0,0:00:01.84,0:00:02.09,Default,,0,0,0,,flew a kite\N{\c&H00FFE040&}into{\c&H00FFFFFF&} a storm—
+Dialogue: 0,0:00:02.09,0:00:02.21,Default,,0,0,0,,flew a kite\Ninto {\c&H00FFE040&}a{\c&H00FFFFFF&} storm—
+Dialogue: 0,0:00:02.21,0:00:02.60,Default,,0,0,0,,flew a kite\Ninto a {\c&H00FFE040&}storm—{\c&H00FFFFFF&}
+Dialogue: 0,0:00:02.60,0:00:02.73,Default,,0,0,0,,{\c&H00FFE040&}to{\c&H00FFFFFF&} catch lightning\Non a key!
+Dialogue: 0,0:00:02.73,0:00:03.05,Default,,0,0,0,,to {\c&H00FFE040&}catch{\c&H00FFFFFF&} lightning\Non a key!
+Dialogue: 0,0:00:03.05,0:00:03.62,Default,,0,0,0,,to catch {\c&H00FFE040&}lightning{\c&H00FFFFFF&}\Non a key!
+Dialogue: 0,0:00:03.62,0:00:03.75,Default,,0,0,0,,to catch lightning\N{\c&H00FFE040&}on{\c&H00FFFFFF&} a key!
+Dialogue: 0,0:00:03.75,0:00:03.86,Default,,0,0,0,,to catch lightning\Non {\c&H00FFE040&}a{\c&H00FFFFFF&} key!
+Dialogue: 0,0:00:03.86,0:00:04.16,Default,,0,0,0,,to catch lightning\Non a {\c&H00FFE040&}key!{\c&H00FFFFFF&}
+Dialogue: 0,0:00:04.50,0:00:04.88,Default,,0,0,0,,{\c&H00FFE040&}Father,{\c&H00FFFFFF&} stop—
+Dialogue: 0,0:00:04.88,0:00:05.15,Default,,0,0,0,,Father, {\c&H00FFE040&}stop—{\c&H00FFFFFF&}
+Dialogue: 0,0:00:05.15,0:00:05.37,Default,,0,0,0,,{\c&H00FFE040&}that{\c&H00FFFFFF&} lightning\Nbolt could kill us!
+Dialogue: 0,0:00:05.37,0:00:05.85,Default,,0,0,0,,that {\c&H00FFE040&}lightning{\c&H00FFFFFF&}\Nbolt could kill us!
+Dialogue: 0,0:00:05.85,0:00:06.07,Default,,0,0,0,,that lightning\N{\c&H00FFE040&}bolt{\c&H00FFFFFF&} could kill us!
+Dialogue: 0,0:00:06.07,0:00:06.33,Default,,0,0,0,,that lightning\Nbolt {\c&H00FFE040&}could{\c&H00FFFFFF&} kill us!
+Dialogue: 0,0:00:06.33,0:00:06.55,Default,,0,0,0,,that lightning\Nbolt could {\c&H00FFE040&}kill{\c&H00FFFFFF&} us!
+Dialogue: 0,0:00:06.55,0:00:06.74,Default,,0,0,0,,that lightning\Nbolt could kill {\c&H00FFE040&}us!{\c&H00FFFFFF&}
+Dialogue: 0,0:00:06.95,0:00:07.20,Default,,0,0,0,,{\c&H00FFE040&}Touch{\c&H00FFFFFF&} the brass key,
+Dialogue: 0,0:00:07.20,0:00:07.35,Default,,0,0,0,,Touch {\c&H00FFE040&}the{\c&H00FFFFFF&} brass key,
+Dialogue: 0,0:00:07.35,0:00:07.59,Default,,0,0,0,,Touch the {\c&H00FFE040&}brass{\c&H00FFFFFF&} key,
+Dialogue: 0,0:00:07.59,0:00:07.80,Default,,0,0,0,,Touch the brass {\c&H00FFE040&}key,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:07.80,0:00:08.20,Default,,0,0,0,,{\c&H00FFE040&}William—{\c&H00FFFFFF&}lightning\Nis pure electricity!
+Dialogue: 0,0:00:08.20,0:00:08.65,Default,,0,0,0,,William—{\c&H00FFE040&}lightning{\c&H00FFFFFF&}\Nis pure electricity!
+Dialogue: 0,0:00:08.65,0:00:08.74,Default,,0,0,0,,William—lightning\N{\c&H00FFE040&}is{\c&H00FFFFFF&} pure electricity!
+Dialogue: 0,0:00:08.74,0:00:08.94,Default,,0,0,0,,William—lightning\Nis {\c&H00FFE040&}pure{\c&H00FFFFFF&} electricity!
+Dialogue: 0,0:00:08.94,0:00:09.57,Default,,0,0,0,,William—lightning\Nis pure {\c&H00FFE040&}electricity!{\c&H00FFFFFF&}
+Dialogue: 0,0:00:09.82,0:00:09.94,Default,,0,0,0,,{\c&H00FFE040&}He{\c&H00FFFFFF&} bottled real\Nstorm lightning
+Dialogue: 0,0:00:09.94,0:00:10.37,Default,,0,0,0,,He {\c&H00FFE040&}bottled{\c&H00FFFFFF&} real\Nstorm lightning
+Dialogue: 0,0:00:10.37,0:00:10.61,Default,,0,0,0,,He bottled {\c&H00FFE040&}real{\c&H00FFFFFF&}\Nstorm lightning
+Dialogue: 0,0:00:10.61,0:00:10.92,Default,,0,0,0,,He bottled real\N{\c&H00FFE040&}storm{\c&H00FFFFFF&} lightning
+Dialogue: 0,0:00:10.92,0:00:11.47,Default,,0,0,0,,He bottled real\Nstorm {\c&H00FFE040&}lightning{\c&H00FFFFFF&}
+Dialogue: 0,0:00:11.47,0:00:11.59,Default,,0,0,0,,{\c&H00FFE040&}in{\c&H00FFFFFF&} a glass\NLeyden jar—
+Dialogue: 0,0:00:11.59,0:00:11.70,Default,,0,0,0,,in {\c&H00FFE040&}a{\c&H00FFFFFF&} glass\NLeyden jar—
+Dialogue: 0,0:00:11.70,0:00:12.01,Default,,0,0,0,,in a {\c&H00FFE040&}glass{\c&H00FFFFFF&}\NLeyden jar—
+Dialogue: 0,0:00:12.01,0:00:12.37,Default,,0,0,0,,in a glass\N{\c&H00FFE040&}Leyden{\c&H00FFFFFF&} jar—
+Dialogue: 0,0:00:12.37,0:00:12.62,Default,,0,0,0,,in a glass\NLeyden {\c&H00FFE040&}jar—{\c&H00FFFFFF&}
+Dialogue: 0,0:00:12.62,0:00:12.99,Default,,0,0,0,,{\c&H00FFE040&}naming{\c&H00FFFFFF&} positive\Nand negative charge!
+Dialogue: 0,0:00:12.99,0:00:13.48,Default,,0,0,0,,naming {\c&H00FFE040&}positive{\c&H00FFFFFF&}\Nand negative charge!
+Dialogue: 0,0:00:13.48,0:00:13.66,Default,,0,0,0,,naming positive\N{\c&H00FFE040&}and{\c&H00FFFFFF&} negative charge!
+Dialogue: 0,0:00:13.66,0:00:14.15,Default,,0,0,0,,naming positive\Nand {\c&H00FFE040&}negative{\c&H00FFFFFF&} charge!
+Dialogue: 0,0:00:14.15,0:00:14.61,Default,,0,0,0,,naming positive\Nand negative {\c&H00FFE040&}charge!{\c&H00FFFFFF&}
+Dialogue: 0,0:00:15.50,0:00:15.71,Default,,0,0,0,,{\c&H00FFE040&}Then{\c&H00FFFFFF&} Franklin built
+Dialogue: 0,0:00:15.71,0:00:16.14,Default,,0,0,0,,Then {\c&H00FFE040&}Franklin{\c&H00FFFFFF&} built
+Dialogue: 0,0:00:16.14,0:00:16.41,Default,,0,0,0,,Then Franklin {\c&H00FFE040&}built{\c&H00FFFFFF&}
+Dialogue: 0,0:00:16.41,0:00:16.57,Default,,0,0,0,,{\c&H00FFE040&}the{\c&H00FFFFFF&} copper\Nlightning rod—
+Dialogue: 0,0:00:16.57,0:00:16.89,Default,,0,0,0,,the {\c&H00FFE040&}copper{\c&H00FFFFFF&}\Nlightning rod—
+Dialogue: 0,0:00:16.89,0:00:17.38,Default,,0,0,0,,the copper\N{\c&H00FFE040&}lightning{\c&H00FFFFFF&} rod—
+Dialogue: 0,0:00:17.38,0:00:17.60,Default,,0,0,0,,the copper\Nlightning {\c&H00FFE040&}rod—{\c&H00FFFFFF&}
+Dialogue: 0,0:00:17.72,0:00:18.01,Default,,0,0,0,,{\c&H00FFE040&}Whoa!{\c&H00FFFFFF&} It steered\Na thunderbolt
+Dialogue: 0,0:00:18.01,0:00:18.12,Default,,0,0,0,,Whoa! {\c&H00FFE040&}It{\c&H00FFFFFF&} steered\Na thunderbolt
+Dialogue: 0,0:00:18.12,0:00:18.48,Default,,0,0,0,,Whoa! It {\c&H00FFE040&}steered{\c&H00FFFFFF&}\Na thunderbolt
+Dialogue: 0,0:00:18.48,0:00:18.57,Default,,0,0,0,,Whoa! It steered\N{\c&H00FFE040&}a{\c&H00FFFFFF&} thunderbolt
+Dialogue: 0,0:00:18.57,0:00:19.15,Default,,0,0,0,,Whoa! It steered\Na {\c&H00FFE040&}thunderbolt{\c&H00FFFFFF&}
+Dialogue: 0,0:00:19.15,0:00:19.56,Default,,0,0,0,,{\c&H00FFE040&}straight{\c&H00FFFFFF&}\Ninto the earth!
+Dialogue: 0,0:00:19.56,0:00:19.77,Default,,0,0,0,,straight\N{\c&H00FFE040&}into{\c&H00FFFFFF&} the earth!
+Dialogue: 0,0:00:19.77,0:00:19.93,Default,,0,0,0,,straight\Ninto {\c&H00FFE040&}the{\c&H00FFFFFF&} earth!
+Dialogue: 0,0:00:19.93,0:00:20.27,Default,,0,0,0,,straight\Ninto the {\c&H00FFE040&}earth!{\c&H00FFFFFF&}
+Dialogue: 0,0:00:20.55,0:00:20.74,Default,,0,0,0,,{\c&H00FFE040&}One{\c&H00FFFFFF&} fearless storm test
+Dialogue: 0,0:00:20.74,0:00:21.24,Default,,0,0,0,,One {\c&H00FFE040&}fearless{\c&H00FFFFFF&} storm test
+Dialogue: 0,0:00:21.24,0:00:21.56,Default,,0,0,0,,One fearless {\c&H00FFE040&}storm{\c&H00FFFFFF&} test
+Dialogue: 0,0:00:21.56,0:00:21.81,Default,,0,0,0,,One fearless storm {\c&H00FFE040&}test{\c&H00FFFFFF&}
+Dialogue: 0,0:00:21.81,0:00:22.12,Default,,0,0,0,,{\c&H00FFE040&}saved{\c&H00FFFFFF&} millions\Nof homes,
+Dialogue: 0,0:00:22.12,0:00:22.62,Default,,0,0,0,,saved {\c&H00FFE040&}millions{\c&H00FFFFFF&}\Nof homes,
+Dialogue: 0,0:00:22.62,0:00:22.75,Default,,0,0,0,,saved millions\N{\c&H00FFE040&}of{\c&H00FFFFFF&} homes,
+Dialogue: 0,0:00:22.75,0:00:23.13,Default,,0,0,0,,saved millions\Nof {\c&H00FFE040&}homes,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:23.13,0:00:23.32,Default,,0,0,0,,{\c&H00FFE040&}and{\c&H00FFFFFF&} sparked the entire\Nelectric age!
+Dialogue: 0,0:00:23.32,0:00:23.76,Default,,0,0,0,,and {\c&H00FFE040&}sparked{\c&H00FFFFFF&} the entire\Nelectric age!
+Dialogue: 0,0:00:23.76,0:00:23.95,Default,,0,0,0,,and sparked {\c&H00FFE040&}the{\c&H00FFFFFF&} entire\Nelectric age!
+Dialogue: 0,0:00:23.95,0:00:24.33,Default,,0,0,0,,and sparked the {\c&H00FFE040&}entire{\c&H00FFFFFF&}\Nelectric age!
+Dialogue: 0,0:00:24.33,0:00:24.83,Default,,0,0,0,,and sparked the entire\N{\c&H00FFE040&}electric{\c&H00FFFFFF&} age!
+Dialogue: 0,0:00:24.83,0:00:25.12,Default,,0,0,0,,and sparked the entire\Nelectric {\c&H00FFE040&}age!{\c&H00FFFFFF&}
+Dialogue: 0,0:00:25.50,0:00:26.17,Default,,0,0,0,,{\c&H00FFE040&}Skyscrapers,{\c&H00FFFFFF&} batteries,
+Dialogue: 0,0:00:26.17,0:00:26.74,Default,,0,0,0,,Skyscrapers, {\c&H00FFE040&}batteries,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:26.74,0:00:26.96,Default,,0,0,0,,{\c&H00FFE040&}your{\c&H00FFFFFF&} phone right now—
+Dialogue: 0,0:00:26.96,0:00:27.24,Default,,0,0,0,,your {\c&H00FFE040&}phone{\c&H00FFFFFF&} right now—
+Dialogue: 0,0:00:27.24,0:00:27.52,Default,,0,0,0,,your phone {\c&H00FFE040&}right{\c&H00FFFFFF&} now—
+Dialogue: 0,0:00:27.52,0:00:27.74,Default,,0,0,0,,your phone right {\c&H00FFE040&}now—{\c&H00FFFFFF&}
+Dialogue: 0,0:00:27.74,0:00:27.91,Default,,0,0,0,,{\c&H00FFE040&}all{\c&H00FFFFFF&} trace back\Nto Benjamin Franklin!
+Dialogue: 0,0:00:27.91,0:00:28.19,Default,,0,0,0,,all {\c&H00FFE040&}trace{\c&H00FFFFFF&} back\Nto Benjamin Franklin!
+Dialogue: 0,0:00:28.19,0:00:28.41,Default,,0,0,0,,all trace {\c&H00FFE040&}back{\c&H00FFFFFF&}\Nto Benjamin Franklin!
+Dialogue: 0,0:00:28.41,0:00:28.52,Default,,0,0,0,,all trace back\N{\c&H00FFE040&}to{\c&H00FFFFFF&} Benjamin Franklin!
+Dialogue: 0,0:00:28.52,0:00:28.97,Default,,0,0,0,,all trace back\Nto {\c&H00FFE040&}Benjamin{\c&H00FFFFFF&} Franklin!
+Dialogue: 0,0:00:28.97,0:00:29.50,Default,,0,0,0,,all trace back\Nto Benjamin {\c&H00FFE040&}Franklin!{\c&H00FFFFFF&}
